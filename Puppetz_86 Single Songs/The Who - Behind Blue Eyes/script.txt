@@ -1,0 +1,41 @@
+12100	2830	text	No one knows what it's like
+15330	3340	text	To be the bad man
+19070	3570	text	To be the sad man
+23040	3290	text	Behind blue eyes
+27130	2800	text	No one knows what it's like
+30330	3290	text	To be hated
+34020	2890	text	To be fated
+37310	3270	text	To telling only lies
+41380	3290	text	But my dreams
+45070	3240	text	They aren't as empty
+49110	6320	text	As my conscience seems to be
+57030	5840	text	I have hours, only lonely
+64470	3300	text	My love is vengeance
+68170	6230	text	That's never free
+77400	2760	text	No one knows what it's like
+80360	3360	text	To feel these feelings
+84120	2950	text	Like I do
+87470	4110	text	And I blame you
+92380	3280	text	No one bites back as hard
+96060	2730	text	On their anger
+99190	3560	text	None of my pain and woe
+103150	3300	text	Can show through
+106850	3350	text	But my dreams
+110600	3310	text	They aren't as empty
+114710	6230	text	As my conscience seems to be
+122540	5910	text	I have hours, only lonely
+130050	3400	text	My love is vengeance
+133850	5630	text	That's never free
+141080	3820	text	Mmmmm....
+150900	3110	text	When my fist clenches, crack it open
+154410	3550	text	Before I use it and lose my cool
+158360	3110	text	When I smile, tell me some bad news
+161870	5550	text	Before I laugh and act like a fool
+169020	3210	text	And if I swallow anything evil
+173030	2880	text	Put your finger down my throat
+176310	3220	text	And if I shiver, please give me a blanket
+179930	5550	text	And keep me warm, let me wear your coat
+204440	2860	text	No one knows what it's like
+207700	3520	text	To be the bad man
+211620	3230	text	To be the sad man
+215650	4000	text	Behind blue eyes.
