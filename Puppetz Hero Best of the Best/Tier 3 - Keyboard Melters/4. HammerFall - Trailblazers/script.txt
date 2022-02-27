@@ -1,0 +1,47 @@
+# Lyrics script: HammerFall - Trailblazers
+# Scripted by YMS for Puppetz Hero
+34500	3100	text	It's been a long way, but now we are near
+38000	2690	text	The midst of the fiery rain
+42460	3050	text	We know the thunder have summoned us all
+45910	3450	text	To the place where innocence got slain
+50520	2980	text	Behold the omens, the river runs red
+53900	2960	text	The autumn winds carry the dead
+58660	3160	text	The final warning, the very last command
+62220	2740	text	Shattered remains for the damned
+66280	3500	text	We won't surrender
+70180	3120	text	No never, we will carry on
+74230	3530	text	From the lake of fire they have come
+78440	3470	text	Fierce almighty legions, one by one
+82640	2990	text	When the flames of glory touch the sky
+86550	2500	text	Trailblazers do or die
+90480	3260	text	We are the mighty, who soar through the air
+94140	3070	text	Creating our own destiny
+98350	3250	text	Warriors once and warriors to be
+102000	3560	text	Forever our spirits fly free
+106360	3350	text	We rode on lightning, we shone like the sun
+110110	3270	text	In a thunderous symphony
+114470	1280	text	We fought them hard
+115850	2100	text	We fought them so brave
+118150	2940	text	Sending them back to their grave
+121980	3350	text	The hammer has fallen
+126130	3090	text	The fire still burns in our hearts
+130240	3590	text	From the lake of fire they have come
+134690	3160	text	Fierce almighty legions, one by one
+138400	3350	text	When the flames of glory touch the sky
+142150	0	text	Trailblazers do or die
+146850	3030	text	From the lake of fire they have come
+150610	3320	text	Fierce almighty legions, one by one
+154560	3340	text	When the flames of glory touch the sky
+158410	2660	text	Trailblazers do or die
+194730	3410	text	The visions we gazed upon
+199040	2470	text	As the nightmare returned
+201940	2050	text	On the uncaring slopes
+204190	5060	text	The mark of the shadows still burn, burn
+226620	3440	text	From the lake of fire they have come
+230580	3400	text	Fierce almighty legions, one by one
+234580	3200	text	When the flames of glory touch the sky
+238580	2510	text	Trailblazers do or die
+242580	3520	text	From the lake of fire they have come
+246530	3310	text	Fierce almighty legions, one by one
+250640	20	text	When the flames of glory touch the sky
+254590	2260	text	Trailblazers do or die

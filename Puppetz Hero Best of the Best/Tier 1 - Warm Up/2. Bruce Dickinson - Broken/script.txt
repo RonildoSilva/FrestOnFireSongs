@@ -1,0 +1,41 @@
+# Lyrics script: Bruce Dickinson - Broken
+# Scripted by YMS for Puppetz Hero
+33350	1700	text	I will not be pushed
+35150	2700	text	I will not be stamped defiled
+38050	1800	text	I will not be crushed
+39950	2810	text	I am not your only child
+43160	1750	text	I am not a freak
+45010	2650	text	Object of your own desire
+48060	1870	text	I am not ashamed
+50130	2770	text	I am not your alibi
+53300	3450	text	I stand alone but I can see
+58120	3540	text	You won't bring me down
+62800	3390	text	Through all this pain and misery
+66590	4060	text	I'm not broken
+77200	1280	text	Crushed
+82000	1130	text	Crushed
+83230	1820	text	I am not a pawn
+85250	2780	text	This is not a game of chess
+88230	1650	text	I am not a pin
+89980	2750	text	Stuck into your shiny vest
+93130	1910	text	I am not a slave
+95240	2660	text	I will do what I do best
+98300	1550	text	Walking out on you
+99950	2650	text	Take my life, leave the rest
+103000	3620	text	I stand alone but I can see
+108150	4100	text	You won't bring me down
+113050	3370	text	Through all this pain and misery
+116820	3650	text	I'm not broken
+123470	3270	text	All the hatred, can't you see
+128350	3390	text	You won't bring me down
+133260	3010	text	All the light has set me free
+136670	4450	text	I'm not broken
+183150	3290	text	I stand alone but I can see
+188140	3610	text	You won't bring me down
+193100	3200	text	Through all this pain and misery
+196700	3860	text	I'm not broken
+203450	3290	text	All the hatred, can't you see
+208370	3830	text	You won't bring me down
+213400	2830	text	All the light has set me free
+216630	4450	text	I'm not broken
+221980	8130	text	I'm not broken

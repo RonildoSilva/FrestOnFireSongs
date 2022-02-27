@@ -1,0 +1,39 @@
+# Lyrics script: Amon Amarth - Cry Of The Blackbirds
+# Scripted by YMS for Puppetz Hero
+35480	2350	text	Raise your swords up high
+38030	2610	text	See the black birds fly
+40840	2660	text	Let them hear your rage
+43700	1850	text	Show no fear
+45750	5560	text	Attack!
+68470	3610	text	Charge your horses across the fields
+73640	3750	text	Together we ride into destiny
+79190	3510	text	Have no fear of death when it's your time
+84760	3840	text	Oden will bring us home when we die
+90370	2330	text	The ground trembles under us
+92900	2380	text	As we make our thunder charge
+95480	1550	text	The pounding hooves strikes
+97130	2940	text	Blinding fear into their hearts
+101200	2190	text	Our helmets shine in the sun
+103590	2750	text	As we near their wall of shields
+106740	2010	text	Some of them turn and run
+108950	3210	text	When they hear our frenzied screams
+126470	2310	text	Draw your swords to strike
+128980	2770	text	Hear the black birds cry
+131950	2330	text	Let them feel your hate
+134480	1960	text	Show no fear
+169900	2600	text	Attack!
+172800	1900	text	Attack!
+175000	2600	text	Attack!
+178100	2920	text	Attack!
+181520	3640	text	Charge your horses across the fields
+186540	4130	text	Together we ride into destiny
+192540	3530	text	Have no fear of death when it's your time
+197850	3680	text	Oden will bring us home when we die
+203300	2170	text	The enemy are in disarray
+205670	2230	text	Like a cowardice they run
+208800	2470	text	Send them to their violent grave
+211470	1820	text	Don't spare anyone
+214200	2280	text	Dead and wounded lie all around
+216680	2520	text	See the pain in their eyes
+219730	2280	text	Over the field an eerie sound
+222210	2600	text	As we hear the ravens cry

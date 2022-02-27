@@ -1,0 +1,59 @@
+# Lyrics script: Ozzy Osbourne - Miracle Man
+# Scripted by YMS for Puppetz Hero
+25570	2070	text	I'm looking for a miracle man
+28980	1680	text	That tells me no lies
+32630	2160	text	I'm looking for a miracle man
+36080	2030	text	Who's not in disguise
+39890	2530	text	I don't know where he'll come from
+43150	2730	text	And I don't know where he's been
+46900	2660	text	But it's not our Jimmy Sinner
+50750	3350	text	Because he's so obscene
+54900	1240	text	Miracle man
+56240	1390	text	Got busted
+58470	1200	text	Miracle man
+59770	1410	text	Got busted
+65480	2120	text	Today I saw a miracle man
+67800	1150	text	Miracle man
+69050	1610	text	On TV cryin'
+72910	1740	text	Such a hypocritical man
+74750	1640	text	Miracle man
+76490	1460	text	Born again dyin'
+79950	2560	text	We don't know where he's goin'
+83260	2610	text	But we know just where he's been
+86910	2600	text	It was our little Jimmy Sinner
+90870	3480	text	That I saw on the screen
+94750	1350	text	Miracle man
+96200	1660	text	Got busted
+98400	1500	text	Miracle man
+100000	1300	text	Got busted
+101850	1750	text	Miracle man
+103700	1220	text	Got busted
+105660	2600	text	Miracle man
+156720	2200	text	A devil with a crucifix
+160580	1680	text	Brimstone and fire
+163990	1880	text	He needs another carnal fix
+167190	2120	text	To take him higher and higher
+171290	2320	text	Now Jimmy, he got busted
+175150	2240	text	With his pants down
+178800	2760	text	Repent ye wretched sinners
+181960	6340	text	Self righteous clown
+189900	1120	text	Miracle man
+191120	1460	text	Got busted
+193220	1430	text	Miracle man
+194750	1540	text	Got busted
+196930	1270	text	Miracle man
+198300	1490	text	Got busted
+200580	1240	text	Miracle man
+201920	1450	text	Got busted
+204150	1330	text	Miracle man
+205580	1130	text	Got busted
+207680	1570	text	Miracle man
+209350	1100	text	Got busted
+211300	1280	text	Miracle man
+212680	1330	text	Got busted
+214780	1450	text	Miracle man
+216330	1540	text	Got busted
+218480	1210	text	Miracle man
+219790	1430	text	Got busted
+221940	1400	text	Miracle man
+223440	1100	text	Got busted

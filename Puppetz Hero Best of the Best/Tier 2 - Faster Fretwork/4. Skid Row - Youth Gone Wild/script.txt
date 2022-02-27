@@ -1,0 +1,53 @@
+# Lyrics script: Skid Row - Youth Gone Wild
+# Scripted by YMS for Puppetz Hero
+13570	3500	text	Oh yeah
+26530	3490	text	Since I was born they couldn't hold me down
+30840	1440	text	Another misfit kid
+32380	2060	text	Another burned-out town
+34640	1710	text	I never played by the rules
+36450	1690	text	And I never really cared
+38240	3850	text	My nasty reputation takes me everywhere
+42890	4350	text	I look and see it's not only me
+50930	3250	text	So many others have stood where I stand
+54980	1890	text	We are the young
+56970	1850	text	Raise your hands
+59190	2200	text	They call us problem child
+61590	1860	text	We spend our lives on trial
+63550	1800	text	We walk an endless mile
+65450	2100	text	We are the youth gone wild
+67750	1600	text	We stand and we won't fall
+69450	2010	text	We're one and one for all
+71660	1740	text	The writing's on the wall
+73500	2610	text	We are the youth gone wild
+79550	1600	text	A boss screamin' in my ear
+81250	1980	text	About who I'm supposed to be
+83700	1400	text	Get a 3-piece Wall Street smile
+85200	2450	text	And son, you'll look just like me
+87850	1350	text	I said "Hey man
+89300	1800	text	There's something that you oughta know
+91300	3590	text	I tell ya Park Avenue leads to Skid Row"
+96620	4010	text	I look and see it's not only me
+104220	3200	text	We're standin' tall, ain't never a doubt
+108220	1330	text	We are the young
+109650	1790	text	So shout it out
+112220	2060	text	They call us problem child
+114480	2050	text	We spend our lives on trial
+116730	2010	text	We walk an endless mile
+118940	1800	text	We are the youth gone wild
+120840	1850	text	We stand and we won't fall
+122790	1850	text	We're one and one for all
+124840	2060	text	The writing's on the wall
+127100	1900	text	We are the youth gone wild
+129620	2250	text	We are the youth gone wild
+149090	1860	text	They call us problem child
+151150	1950	text	We spend our lives on trial
+153300	2000	text	We walk an endless mile
+155500	1800	text	We are the youth gone wild
+157400	1700	text	We stand and we won't fall
+159200	2250	text	We're one and one for all
+161650	2070	text	The writing's on the wall
+163920	2320	text	We are the youth gone wild
+171790	2360	text	We are the youth gone wild
+179950	2050	text	We are the youth gone wild
+188160	2000	text	We are the youth gone wild
+196320	2690	text	We are the youth gone wild

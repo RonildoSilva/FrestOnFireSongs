@@ -1,0 +1,58 @@
+# Lyrics script: Led Zeppelin - Stairway To Heaven
+# Scripted by YMS for Puppetz Hero
+55680	2470	text	There's a lady who's sure
+59430	2370	text	All that glitters is gold
+62190	5180	text	And she's buying a stairway to heaven
+68750	2600	text	When she gets there she knows
+72300	2590	text	If the stores are all closed
+75500	4470	text	With a word she can get what she came for
+83060	5110	text	Ooh-ooh-ooh
+88970	4710	text	And she's buying a stairway to heaven
+95580	2520	text	There's a sign on the wall
+99030	2460	text	But she wants to be sure
+102090	2610	text	Cause you know sometimes words
+105100	3030	text	Have two meanings
+109100	2600	text	In a tree by the brook
+112610	2700	text	There's a songbird who sings
+115510	4130	text	Sometimes all of our thoughts are misgiven
+141070	3100	text	Ooh, it makes me wonder
+149600	5430	text	Ooh, makes me wonder
+160850	2250	text	There's a feeling I get
+163960	2560	text	When I look to the west
+166720	4090	text	And my spirit is crying for leaving
+172930	2580	text	In my thoughts I have seen
+176230	2260	text	Rings of smoke through the trees
+179230	3440	text	And the voices of those who stand looking
+191850	2270	text	Ooh, it makes me wonder
+200800	4830	text	Ooh, really makes me wonder
+211730	2550	text	And it's whispered that soon
+214480	2750	text	If we all call the tune
+217630	4320	text	Then the piper will lead us to reason
+223490	2620	text	And a new day will dawn
+226650	2250	text	For those who stand long
+229100	4270	text	And the forests will echo with laughter
+252840	3150	text	Oh-wow-oh
+262090	2750	text	If there's a bustle in your hedgerow
+265240	1430	text	Don't be alarmed now
+267700	3400	text	It's just a spring clean for the May Queen
+273360	3240	text	Yes, there are two paths you can go by
+277000	1050	text	But in the long run
+279260	3490	text	There's still time to change the road you're on
+291600	2610	text	And it makes me wonder
+301100	2720	text	Ohh-uhh
+309350	3060	text	Your head is humming and it won't go
+312810	960	text	In case you don't know
+315020	3240	text	The piper's calling you to join him
+320520	3250	text	Dear lady, can you hear the wind blow
+324170	1170	text	And did you know
+326300	6730	text	Your stairway lies on the whispering wind
+406280	2510	text	And as we wind on down the road
+410990	2660	text	Our shadows taller than our soul
+415690	2870	text	There walks a lady we all know
+420300	2970	text	Who shines white light and wants to show
+425010	2480	text	How everything still turns to gold
+429660	2660	text	And if you listen very hard
+434320	2650	text	The tune will come to you at last
+438720	3580	text	When all are one and one is all, yeah
+443730	6410	text	To be a rock and not to roll
+467520	7310	text	And she's buying a stairway to heaven

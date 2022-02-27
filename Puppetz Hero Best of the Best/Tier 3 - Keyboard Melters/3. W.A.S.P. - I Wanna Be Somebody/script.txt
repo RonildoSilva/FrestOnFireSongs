@@ -1,0 +1,57 @@
+# Lyrics script: W.A.S.P. - I Wanna Be Somebody
+# Scripted by YMS for Puppetz Hero
+2290	3100	text	You say you don't wanna run and hide
+5790	2710	text	A face that no one knows
+8700	4120	text	And everyone you meet, you're gonna show
+14550	1550	text	You're nobody's slave
+16200	3140	text	Nobody's chains are holdin' you
+20250	1910	text	You hold your fist up high
+22360	3170	text	And rule the zoo
+26170	3300	text	Oh, you just got to be
+31370	4240	text	Up high where the whole world's watchin' me
+37280	4150	text	'Cos I, I got the guts to be somebody
+42230	1050	text	To cry out
+43380	2610	text	I wanna be somebody
+46190	2700	text	Be somebody soon
+49090	2610	text	I wanna be somebody
+51900	2700	text	Be somebody, too
+55000	2560	text	I wanna be somebody
+57760	2610	text	Be somebody soon
+60770	2750	text	I wanna be somebody
+63720	2740	text	Be somebody, too
+67430	2600	text	You say you don't wanna starve
+70230	3010	text	Or take the table crumbs that fall
+73640	4560	text	You don't wanna beg or plead at all
+79800	2150	text	You don't want no nine to five
+82150	2960	text	Your fingers to the bone
+85510	5040	text	You don't want the rock piles' bloody stones
+91610	3540	text	Oh, you just got to be
+96700	4420	text	Up high where the whole world's watchin' me
+102550	4040	text	'Cos I, I got the guts to be somebody
+107390	1300	text	To cry out
+108790	2350	text	I wanna be somebody
+111340	2700	text	Be somebody soon
+114440	2560	text	I wanna be somebody
+117200	2650	text	Be somebody, too
+120250	2510	text	I wanna be somebody
+122960	2650	text	Be somebody soon
+126010	2610	text	I wanna be somebody
+128820	2250	text	Be somebody, too
+131270	3410	text	I want shiny cars and dirty money
+135080	1770	text	Lotsa rock and roll
+136950	2880	text	I will live in fame and die in flames
+140230	2640	text	I'm never gettin' old
+173310	2710	text	I wanna be somebody
+176220	2800	text	Be somebody soon
+179420	2700	text	I wanna be somebody
+182320	2810	text	Be somebody, too
+185530	2600	text	I wanna be somebody
+188530	2560	text	Be somebody soon
+191290	2650	text	I wanna be somebody
+194340	2700	text	Be somebody, too
+197240	2700	text	I wanna be somebody
+200140	2700	text	Be somebody soon
+203040	2660	text	I wanna be somebody
+205900	3070	text	Be somebody, too
+215170	2480	text	I'm gonna be somebody
+218080	2650	text	I'm gonna be somebody

@@ -1,0 +1,42 @@
+# Lyrics script: Iced Earth - Burning Times
+# Scripted by YMS for Puppetz Hero
+30360	2960	text	Yesterday is gone forever
+33720	1990	text	No turning back the clock
+37620	2560	text	In the end, all is sinful
+40380	2500	text	No need to bear the pain
+44280	2750	text	The end is coming soon
+47230	2900	text	You can't hold out forever
+51140	2140	text	Repent your sins to me
+53640	3390	text	Before you pass this world
+71570	2650	text	In this time I am law
+74620	2480	text	I know you've been betrayed
+78570	2670	text	From man's word, I'm given life
+81440	2360	text	Through loss, I only gain
+85090	2710	text	For you I feel no sympathy
+88200	3200	text	No sorrow, no remorse
+92260	2030	text	Confess your sins to me
+94960	2740	text	They'll be taken by force
+99160	2610	text	It doesn't matter what you've done
+101970	2790	text	In my words you are a sinner
+105870	2310	text	For every word you say to me
+108380	3530	text	In every way you are a sinner
+112680	2760	text	It doesn't matter what you've done
+115640	2850	text	In my words you are a sinner
+119690	2400	text	For every word you say to me
+122290	6160	text	In every way you are a sinner
+146990	1820	text	Question me not
+149700	2730	text	I am the one that binds this world
+153750	1870	text	You follow without sight
+156310	3300	text	I grow stronger every day
+161120	2700	text	Take the souls I have damned
+164020	2880	text	And burn them in my name
+167770	2760	text	These are the burning times
+171490	2380	text	The years of pain
+174830	2260	text	It doesn't matter what you've done
+177290	2950	text	In my words you are a sinner
+181350	2300	text	For every word you say to me
+183850	3260	text	In every way you are a sinner
+188350	2350	text	It doesn't matter what you've done
+190900	3000	text	In my words you are a sinner
+194860	2350	text	For every word you say to me
+197410	5980	text	In every way you are a sinner

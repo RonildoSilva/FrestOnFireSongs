@@ -1,0 +1,58 @@
+# Lyrics script: Scorpions - Still Loving You
+# Scripted by YMS for Puppetz Hero
+26410	3250	text	Time, it needs time
+30770	3410	text	To win back your love again
+34580	5960	text	I will be there, I will be there
+45340	3160	text	Love, only love
+49740	3360	text	Can bring back your love someday
+53500	6000	text	I will be there, I will be there
+86800	3530	text	Fight, babe, I'll fight
+91110	3450	text	To win back your love again
+94960	5920	text	I will be there, I will be there
+105550	3060	text	Love, only love
+109880	3350	text	Can break down the walls someday
+113630	6010	text	I will be there, I will be there
+125200	3240	text	If we'd go again
+128840	3300	text	All the way from the start
+134200	3050	text	I would try to change
+137650	3630	text	The things that killed our love
+143310	3550	text	Your pride has built a wall, so strong
+147660	2140	text	That I can't get through
+150250	3640	text	Is there really no chance
+155320	2510	text	To start once again?
+158780	5960	text	I'm loving you
+182660	3010	text	Try, baby, try
+187020	3300	text	To trust in my love again
+190720	5060	text	I will be there, I will be there
+200980	3480	text	Love, our love
+205270	3400	text	Just shouldn't be thrown away
+209070	5460	text	I will be there, I will be there
+220370	2910	text	If we'd go again
+223680	3550	text	All the way from the start
+229090	3010	text	I would try to change
+232500	3560	text	The things that killed our love
+238000	3650	text	Your pride has built a wall, so strong
+242450	2130	text	That I can't get through
+245270	3250	text	Is there really no chance
+250100	2770	text	To start once again?
+255740	3160	text	If we'd go again
+259300	3300	text	All the way from the start
+264440	3050	text	I would try to change
+267890	3230	text	The things that killed our love
+273150	3310	text	Yes, I've hurt your pride, and I know
+277260	2130	text	What you've been through
+279820	3450	text	You should give me a chance
+284550	2540	text	This can't be the end
+287900	4840	text	I'm still loving you
+296500	4850	text	I'm still loving you
+305100	4610	text	I'm still loving you
+311750	1830	text	I need your love
+313680	5080	text	I'm still loving you
+320000	1890	text	Still loving you, baby
+338690	4960	text	I'm still loving you
+345040	1960	text	I need your love
+347200	4600	text	I'm still loving you
+353560	2290	text	I need your love
+363860	4610	text	I'm still loving you
+370300	2020	text	I need your love
+378800	2050	text	I need your love

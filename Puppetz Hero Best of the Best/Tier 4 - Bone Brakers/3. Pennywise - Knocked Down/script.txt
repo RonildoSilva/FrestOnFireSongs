@@ -1,0 +1,42 @@
+# Lyrics script: Pennywise - Knocked Down
+# Scripted by YMS for Puppetz Hero
+18560	2970	text	One hundred million souls are joined together
+21930	2500	text	All hope for something better
+24630	2050	text	And daring to just ask the question
+26880	1850	text	"What is all this worth?"
+28830	2460	text	Cause the answers have all lost their meaning
+31490	2400	text	They got us all believing
+34090	2160	text	We really have a future?
+36450	1700	text	And who will get there first?
+38250	2200	text	Knocked down, stumble then you fall
+40650	2200	text	Stay down, find some use for it all
+43050	2610	text	No way, walk before you crawl
+45860	3250	text	When will you fall?
+58430	2650	text	So many hopeless lives have been forgotten
+61480	2450	text	Defeated once too often
+64130	2110	text	Just hoping to find resolution
+66440	2350	text	Held down by a greater force
+68990	2300	text	In the search we find no solutions
+71490	2060	text	And dream of revolutions
+73750	2450	text	Wake to find we're part of the problem
+76400	1750	text	So tell me what is worse?
+78250	2100	text	Knocked down, stumble then you fall
+80550	2160	text	Stay down, find some use for it all
+82910	2740	text	No way, walk before you crawl
+86050	2950	text	When will you fall?
+91020	2710	text	When will you fall?
+95680	2250	text	When will you fall? 
+115410	2340	text	Knocked down, stumble then you fall
+117950	1860	text	Stay down, find some use for it all
+120010	3000	text	No way, walk before you crawl
+125050	2250	text	Knocked down, stumble then you fall
+127500	2050	text	Stay down, find some use for it all
+129750	2880	text	No way, walk before you crawl
+134690	2200	text	Knocked down
+137090	2150	text	Stay down
+139440	2050	text	Knocked down
+141690	1210	text	Stay down
+143000	1520	text	When will you fall?
+147380	1880	text	When will you fall?
+151840	1860	text	When will you fall?
+156540	1850	text	When will you fall?

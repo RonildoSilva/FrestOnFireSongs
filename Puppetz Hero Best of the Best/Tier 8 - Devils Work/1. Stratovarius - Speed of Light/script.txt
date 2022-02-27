@@ -1,0 +1,21 @@
+# Lyrics script: Stratovarious - Speed Of Light
+# Scripted by YMS for Puppetz Hero
+29290	3650	text	Today is just another day
+35090	3830	text	Of my life too short to live
+41300	2510	text	I should have some kind of meaning
+44010	2750	text	A destiny to believe in
+47160	3600	text	Before I go to sleep
+52620	3970	text	I find some pictures of a time
+58580	4210	text	When everything was still so fine
+64840	2320	text	Although the years have passed by
+67590	3900	text	I will give it all I have inside
+72290	2400	text	Everything
+74890	4520	text	I'm away, lost in my thoughts
+81010	4300	text	Everyday my life goes by
+86110	2010	text	At the speed of light
+139720	5010	text	I'm away, lost in my thoughts
+145530	4650	text	Everyday my life goes by
+151590	4930	text	I'm away, lost in my thoughts
+157320	4360	text	Everyday my life goes by
+162480	2640	text	At the speed of, at the speed of
+165520	6220	text	At the speed of light

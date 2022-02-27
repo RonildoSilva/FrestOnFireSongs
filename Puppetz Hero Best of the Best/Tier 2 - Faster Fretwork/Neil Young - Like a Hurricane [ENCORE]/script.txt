@@ -1,0 +1,49 @@
+# Lyrics script: Neil Young - Like A Hurricane
+# Scripted by YMS for Puppetz Hero
+19860	2950	text	Once I thought I saw you
+23210	3330	text	In a crowded hazy bar
+28120	2650	text	Dancing on the light
+31170	2550	text	From star to star
+36620	3450	text	Far across the moonbeam
+40470	3290	text	I know that's who you are
+44830	2500	text	I saw your brown eyes
+47530	2860	text	Turning once to fire
+54350	3260	text	You are like a hurricane
+58410	3010	text	There's calm in your eye
+62610	3490	text	And I'm gettin' blown away
+66900	3140	text	To somewhere safer where the feeling stays
+71070	1430	text	I wanna love you
+72600	3280	text	But I'm getting blown away
+91540	2640	text	I am just a dreamer
+95300	3190	text	But you are just a dream
+99800	2060	text	You could have been
+102060	3070	text	Anyone to me
+108040	1700	text	Before that moment
+109840	2200	text	You touched my lips
+112240	1910	text	That perfect feeling
+114350	1800	text	When time just slips
+116350	2290	text	Away between us
+118840	3010	text	And our foggy trip
+125550	3510	text	You are like a hurricane
+129460	2860	text	There's calm in your eye
+133820	3300	text	And I'm gettin' blown away
+137920	3100	text	To somewhere safer where the feeling stays
+142130	1320	text	I wanna love you
+143550	5140	text	But I'm getting blown away
+153650	3550	text	Blown away
+263700	2620	text	You are just a dreamer
+267230	3440	text	And I am just a dream
+272100	2000	text	You could have been
+274300	2680	text	Anyone to me
+280830	1510	text	Before that moment
+282440	1890	text	You touched my lips
+284430	2310	text	That perfect feeling
+286940	1700	text	When time just slips
+288740	2410	text	Away between us
+291350	3460	text	On our foggy trip
+298500	3420	text	You are like a hurricane
+302320	3140	text	There's calm in your eye
+306820	3580	text	And I'm gettin' blown away
+310800	3090	text	To somewhere safer where the feeling stays
+314880	1420	text	I wanna love you
+316400	4750	text	But I'm getting blown away

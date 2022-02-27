@@ -1,0 +1,49 @@
+# Lyrics script: Children Of Bodom - Hate Me!
+# Scripted by YMS for Puppetz Hero
+30390	2550	text	I was born in ashes of molten hatred
+33140	2610	text	Raised by demons in abodes of the end
+35950	3860	text	The reaper's scythe I fall upon to light my path
+40610	1490	text	Wrecked by mangled wounds of life
+42200	3360	text	I have become the resurrection of the evil one
+45960	4570	text	You know that I don't fucking care If I live or die
+51330	2880	text	I need a bishop preaching fire
+54610	1880	text	To get away with my sins
+56690	2140	text	I despise everything I see
+61700	1890	text	Ain't got respect for humanity
+63690	2610	text	Never lived or wanted immortality
+66500	2800	text	The reaper's shadow I fall upon
+69700	1350	text	To obscure my path
+71150	2850	text	Every day I'm being battered up until I bleed
+74400	2500	text	You motherfuckers just leave me be
+77100	1820	text	You could never give me cure
+79020	2140	text	For the pain I feel inside
+82870	2360	text	I need a preaching fire
+85430	1890	text	To get away with my sins
+87520	2110	text	I despise everything I see
+89830	1710	text	I don't give a fuck if you hate me!
+92810	2970	text	Led by the reaper I walk in the night
+98130	5610	text	Show me the way to your kingdom come
+115860	1750	text	I believe in armageddon
+117710	2460	text	I've been baptised in alcohol
+120370	2700	text	I'm embodyment of antichrist
+123470	1800	text	I'm living for my own demise
+125470	990	text	I hate
+146290	2700	text	I was born in ashes of molten hatred
+149390	2410	text	Raised by the demons in abodes of the end
+152000	2590	text	The reaper's scythe I fall upon
+154790	1810	text	To light my path
+156800	1160	text	Wrecked by mangled wounds of life
+158060	3540	text	I have become the resurrection of the evil one
+162000	4870	text	You know that I don't fucking care If I live or die
+167670	2600	text	I need a preaching fire
+170670	1910	text	To get away with my sins
+172780	1910	text	I despise everything I see
+174890	1900	text	I don't give a fuck if you hate me!
+217050	1980	text	Turn dead, motherfucker!
+239420	4400	text	Led by the reaper I walk in the night
+244620	5310	text	Show me the way to your kingdom come
+261910	2360	text	I believe in armageddon
+264470	2560	text	I've been baptised in alcohol
+267230	2450	text	I'm embodiment of antichrist
+269880	6520	text	I'm living for my own demise
+280600	900	text	If you hate me!
