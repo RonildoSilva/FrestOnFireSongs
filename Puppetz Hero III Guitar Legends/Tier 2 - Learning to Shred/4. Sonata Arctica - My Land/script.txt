@@ -1,0 +1,40 @@
+# [ti:My Land]
+# [ar:Sonata Antarctica]
+# [la:en]
+36750	4080	text	My own land has closed its gates on me
+41630	5040	text	All alone in world, it's scaring me
+47470	4640	text	I am here to prove you wrong
+52910	3560	text	I'm accused of something I live for
+57270	3960	text	In my dreamland, there's one who understands
+62030	4630	text	A friendly soul, trusting life in your hands
+68260	4300	text	Yes, I gave it all I can
+73360	3950	text	Now it's invaded by a stranger
+78110	4060	text	Keep in mind what you have heard today
+82970	4430	text	You might find that you are not so brave
+88200	4480	text	Are you man enough, carrying the load all alone
+93480	10000	text	When others have your own
+129790	4430	text	My old land is but a pile of sand
+135020	4890	text	Cold and bare but something still is there
+141510	4160	text	Yes, I gave it all I can
+146470	3770	text	Now it's invaded by a stranger
+151040	4410	text	Keep in mind what you have heard today
+156250	4500	text	You might find that you are not so brave
+161550	4400	text	Are you man enough, carrying the load all alone
+166750	9170	text	When others have your own
+180920	2330	text	I am a brave patriot, you are my land,
+183450	4620	text	You have my soul, you have all I had
+188870	6690	text	Now I am here, and I want it all back
+200560	3590	text	In my dreams, I climb the hills I see
+204550	3240	text	And let a gentle breeze lead me to
+208590	2740	text	Plains I once have seen and
+211530	4090	text	Clear blue sky, I swim in lakes I find
+216420	2850	text	I build a house right there
+219670	7170	text	That you can't take.. never take away
+234840	4230	text	I am here to claim my land
+239870	3920	text	You can't keep me away, forever
+244590	3980	text	Keep in mind what you have heard today
+249370	3980	text	You might find that you are not so brave
+254150	4510	text	Are you man enough, carrying the load all alone
+259460	3440	text	When others have your own
+263300	4310	text	Are you man enough, carrying the load all alone
+268410	4000	text	When others have your own 

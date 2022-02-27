@@ -1,0 +1,37 @@
+# [ti:All Along the Watchtower]
+# [ar:Jimi Hendrix]
+# [la:en]
+20020	3390	text	There must be some kind of way out of here
+24210	3430	text	Said the joker to the thief
+28440	3520	text	There's too much confusion
+32760	3600	text	I can't get no relief
+37160	3500	text	Businessman they drink my wine
+41460	3260	text	Plow men dig my earth
+45520	3480	text	None will level on the line
+49800	2440	text	Nobody of it is worth
+52440	10020	text	Hey hey
+70460	3510	text	No reason to get excited
+74770	3320	text	The thief he kindly spoke
+78890	3470	text	There are many here among us
+83160	3480	text	Who feel that life is but a joke
+87440	3480	text	But you and I we've been through that
+91720	3200	text	And this is not our fate
+95720	3510	text	So let us not talk falsely now
+100030	2530	text	The hours getting late
+102760	10000	text	Hey
+136270	10000	text	Hey
+170490	3730	text	All along the watchtower
+175020	3340	text	Princes kept the view
+179160	3470	text	While all the women came and went
+183430	3430	text	Bare-foot servants to, but huh
+187660	3470	text	Outside in the cold distance
+191930	3380	text	A wild cat did growl
+196110	3180	text	Two riders were approachin'
+199690	3330	text	And the wind began to howl
+203420	2150	text	Hey
+211070	3310	text	All along the watchtower
+215180	2650	text	Hear you sing around the watch
+218230	2330	text	Gotta beware gotta beware I will
+220760	2360	text	Yeah
+223320	6390	text	Ooh baby
+234710	4000	text	All along the watchtower 

@@ -1,0 +1,42 @@
+# [ti:Don't Talk To Strangers]
+# [ar:Dio]
+# [al:Scripted by Italianstal1ion for Puppetz Hero 3]
+# [la:en]
+9650	2390	text	Don't talk to strangers
+12240	6110	text	Mmmmh
+19950	2690	text	Don't talk to strangers
+23040	4670	text	'Cause they're only there to do you harm
+28510	2700	text	Don't write in starlight
+31410	4690	text	'Cause the words may come out real
+36900	2900	text	Don't hide in doorways
+40200	4320	text	You may find the key that opens up your soul
+45320	3170	text	Don't go to heaven
+48890	4340	text	'Cause it's really only hell
+54030	2850	text	Don't smell the flowers
+57280	4270	text	They're an evil drug to make you lose your mind
+62350	2850	text	Don't dream of women
+65600	8820	text	'Cause they only bring you down
+82420	5430	text	Hey you, you know me, you've touched me, I'm real
+89450	5880	text	I'm forever the one that lets you look and see and
+96930	3450	text	Feel me
+100780	5480	text	I'm danger - I'm the stranger
+107860	6190	text	And I, I'm darkness, I'm anger, I'm pain
+115650	2650	text	I am master
+118700	5260	text	The evil song you sing inside your brain
+125560	3580	text	Drive you insane
+129940	4790	text	Don't talk
+136330	5490	text	Don't let them inside your mind, yeah
+143420	10000	text	Run away, run away, go!
+189840	1870	text	No - no
+191910	5390	text	Don't let them in your mind
+200300	10560	text	Protect your soul
+218860	2690	text	Don't dance in darkness
+221750	4030	text	You may stumble and you're sure to fall
+226580	2740	text	Don't write in starlight
+229720	4310	text	'Cause the words may come out real
+234830	2880	text	Don't talk to strangers [Don't talk to strangers
+238110	3860	text	'Cause they're only there to make you sad
+242770	2740	text	Don't dream of women
+245910	6630	text	'Cause they'll only bring you down
+257540	5900	text	Yeah
+266440	4000	text	Run, run, run, run away!

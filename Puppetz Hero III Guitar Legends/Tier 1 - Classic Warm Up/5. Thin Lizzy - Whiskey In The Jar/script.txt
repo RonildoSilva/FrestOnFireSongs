@@ -1,0 +1,51 @@
+# [ti:Whisky in the jar]
+# [ar:Thin Lizzy]
+# [la:en]
+37050	3010	text	As I was goin over
+40460	3320	text	The cork and kerry mountains
+44180	3250	text	I saw Captain Farrell 
+47830	3510	text	And his money he was countin'
+52140	3100	text	I first produced my pistol 
+55640	3130	text	And then produced my rapier
+59170	3410	text	I said stand and deliver 
+62980	3510	text	Or the devil he may take ya'
+66890	3280	text	Musha ring dum a doo dum a da
+70970	3480	text	Whack for my daddy-o
+75250	2800	text	Whack for my daddy-o
+78450	10480	text	There's whiskey in the jar-o
+96930	3200	text	I took all of his money 
+100530	3340	text	And it was a pretty penny
+104670	3020	text	I took all of his money 
+108090	3400	text	And I brought it home to Molly
+112290	3410	text	She swore that she'd love me
+116100	3340	text	Never would she leave me
+119840	2850	text	But the devil take that woman 
+123090	3450	text	For you know she tricked me easy
+126940	3450	text	Musha ring dum a doo dum a da
+131190	3360	text	Whack for my daddy-o
+135350	2860	text	Whack for my daddy-o
+138610	10000	text	There's whiskey in the jar-o
+206790	2710	text	Being drunk and weary 
+209700	3600	text	I went to Molly's chamber
+214100	2700	text	Takin' my money with me 
+217200	3490	text	And I never knew the danger
+221490	3200	text	For about six or maybe seven 
+225090	2990	text	In walked Captain Farrell
+228480	3410	text	I jumped up, fired off my pistols 
+232290	3570	text	And I shot him with both barrels
+236260	4100	text	Musha ring dum a doo dum a da
+241160	2850	text	Whack for my daddy-o
+244410	2990	text	Whack for my daddy-o
+247800	10690	text	There's whiskey in the jar-o
+266490	3210	text	Now some men like the fishin' 
+270100	3410	text	And some men like the fowlin'
+273910	3300	text	And some men like ta hear 
+277610	3500	text	A cannon ball a roarin'
+281910	2820	text	Me I like sleepin' 
+285130	3400	text	Specially in my Molly's chamber
+289330	2990	text	But here I am in prison
+292720	2890	text	Here I am with a ball and chain yeah
+296010	3820	text	Musha ring dum a doo dum a da
+300630	3480	text	Whack for my daddy-o
+304510	2720	text	Whack for my daddy-o
+307630	4000	text	There's whiskey in the jar-o

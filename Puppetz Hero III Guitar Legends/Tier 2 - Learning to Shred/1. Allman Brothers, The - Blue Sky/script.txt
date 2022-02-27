@@ -1,0 +1,27 @@
+# [ti:Blue Sky]
+# [ar:Allman Brothers]
+# [la:en]
+18410	2600	text	Walk along the river, 
+21410	1970	text	sweet lullaby, 
+23580	2360	text	it just keeps on flowing,
+26140	3480	text	It dont worry bout where its going, 
+30020	4930	text	no, no.
+36550	440	text	Dont fly, 
+37000	1240	text	mister blue bird, 
+38340	2750	text	Im just walking down the road,
+41290	2740	text	Early morning sunshine
+44230	5450	text	Tell me all I need to know
+54680	1990	text	You're my blue sky, 
+56870	2590	text	You're my sunny day.
+59660	1870	text	Lord, you know it makes me high 
+61730	2730	text	When you turn your love my way,
+64860	10000	text	Turn your love my way, yeah.
+254670	1540	text	Good old Sunday morning, 
+256310	3040	text	Bells are ringing everywhere.
+259750	2240	text	Goin' to Carolina, 
+262190	5310	text	It won't be long and I'll be there
+272500	2130	text	You're my blue sky, 
+274830	2240	text	You're my sunny day.
+277270	2190	text	Lord, you know it makes me high 
+279660	2630	text	When you turn your love my way,
+282490	4000	text	Turn your love my way, yeah.

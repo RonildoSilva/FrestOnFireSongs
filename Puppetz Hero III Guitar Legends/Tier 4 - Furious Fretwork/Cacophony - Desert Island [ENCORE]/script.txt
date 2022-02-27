@@ -1,0 +1,50 @@
+# [ti:Desert Island]
+# [ar:Cacophony]
+# [la:en]
+55880	2800	text	So much obnoxious noise.
+59080	3460	text	I wanna spend my life at the beach.
+62940	2390	text	I’m getting tired of daily shouting.
+65530	3000	text	City is so worse for me
+68930	3060	text	I wanna a desert island,
+72390	2750	text	You really love the city.
+75340	3000	text	(I’ll put) a message in a bottle,
+78740	3580	text	That’s all you’ll hear from me.
+82720	2410	text	It’s a time to lose your nerve,
+85330	2920	text	Get my head strange.
+88650	2830	text	If a don’t leave this city,
+91880	2690	text	I think I’m going insane.
+94970	2760	text	I wanna a desert island,
+98130	2710	text	You really love the city.
+101040	3340	text	(I’ll put) a message in a bottle,
+104780	3230	text	That’s all you’ll hear from me.
+108810	3360	text	Desert island, 
+112570	3490	text	Oh, in the sand.
+116860	3840	text	In the sun!
+121500	3670	text	Desert island, 
+125970	3430	text	Oh, in the heat.
+129800	1710	text	In the heat
+131610	2630	text	Yeow!
+134440	2450	text	I want some real sunshine.
+137090	2890	text	Couldn’t see I’m crying out.
+140380	2940	text	Break the wall as you go down
+143720	2920	text	And listen to me shout
+147040	2710	text	I wanna a desert island,
+149950	2930	text	You really love the city.
+153280	2730	text	(I’ll put) a message in a bottle,
+156410	3200	text	That’s all you’ll hear from me.
+160410	3420	text	Desert island,
+164230	3470	text	In the sand.
+168500	3830	text	Down in the sun!
+173130	3300	text	Desert island, 
+177230	3520	text	In the heat.
+181550	1070	text	Come On!
+182720	5730	text	In the heat!
+193450	5240	text	In the sand, 
+200290	10000	text	In the light.
+311500	3410	text	Desert island,
+315710	3560	text	Down in the sand
+320070	3480	text	In the sand
+324350	3230	text	Desert Island
+327980	5350	text	Down in the heat
+334930	3100	text	In the heat
+338430	4000	text	In the heat

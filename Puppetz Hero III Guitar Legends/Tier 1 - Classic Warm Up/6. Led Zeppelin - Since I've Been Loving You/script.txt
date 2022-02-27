@@ -1,0 +1,57 @@
+# [ti:Since I've Been Loving You]
+# [ar:Led Zepplin]
+# [la:en]
+76100	4960	text	Working from seven
+82660	4640	text	To eleven every night,
+88900	4510	text	It really makes life a drag,
+95010	5290	text	I don't think that's right.
+101900	1820	text	I've really been the best,
+103920	4620	text	The best of fools,
+109340	3390	text	I did what I could, yeah.
+113130	1580	text	'Cause I love you, baby, 
+114810	970	text	How I love you, darling, 
+115880	1460	text	How I love you, baby,
+117440	1450	text	I'm in love with you, 
+118990	1350	text	Girl, 
+120440	3630	text	Little girl.
+124870	530	text	But baby, 
+125410	1870	text	Since I've Been Loving You,
+127480	4230	text	Yeah. 
+132510	2720	text	I'm about to lose 
+135430	2170	text	My worried mind
+137800	7700	text	Ah, yeah.
+150500	4320	text	Everybody trying to tell me
+155620	5390	text	That you didn't mean me no good.
+162610	2410	text	I've been trying, 
+165220	930	text	Lord
+166160	1100	text	Let me tell you,
+167360	2370	text	Let me tell you I really did the 
+169930	3560	text	Best I could.
+174290	4760	text	I've been working from seven
+180650	3150	text	To eleven every night,
+184200	3500	text	I said It kinda makes my life a drag, drag, drag, drag..
+188500	6800	text	Lord, yeah, that ain't right... no no
+198300	5770	text	Since I've Been Loving You,
+205670	3170	text	I'm about to lose
+209240	10000	text	My worried mind.
+295520	6530	text	Said I've been crying, yeah,
+307050	5990	text	Oh my tears they fell like rain,
+314640	1390	text	Don't you hear them, 
+316130	3320	text	Don't you hear them falling,
+319850	1710	text	Don't you hear them, 
+321660	9680	text	Don't you hear them falling.
+336340	3340	text	Do you remember mama, when I knocked upon your door?
+340080	5810	text	I said you had the nerve to tell me you didn't want me no more, yeah
+348890	3590	text	I open my front door, I hear my back door slam,
+352880	5250	text	You know I must have one of them new fangled, new fangled back doors man.
+361130	6420	text	I've been working from seven, seven, seven, to eleven every night and It kinda makes my life a drag...
+372550	5850	text	A drag, drag, oh 
+380000	4940	text	Yeah it makes a drag.
+385740	4670	text	Baby, Since I've Been Loving You,
+391210	1700	text	I'm about to lose,
+393010	5720	text	I'm about lose lose my worried mind.
+401730	1780	text	Just one more, 
+403610	3130	text	Just one more
+407140	4820	text	Oh yeah, 
+413560	2310	text	Since I've Been Loving You, 
+416070	4000	text	I'm gonna lose my worried mind. 

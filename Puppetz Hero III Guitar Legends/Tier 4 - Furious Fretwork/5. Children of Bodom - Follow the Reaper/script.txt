@@ -1,0 +1,33 @@
+# [ti:Follow the Reaper]
+# [ar:Children of Bodon]
+# [la:en]
+740	2600	text	(Death, be not proud, 
+3740	3560	text	though some have called thee mighty and dreadful, 
+8100	10000	text	for thou art not so.)
+41430	3880	text	Losing the war I'm feigning to win
+46110	4050	text	though I never tried to strive deep from within.
+50960	4090	text	Life could be beautiful for anybody it's for
+55850	4120	text	but I'd swear this m********ing s**t is rotten to the core
+60770	1710	text	The portal has been past and it's
+62580	3550	text	time to make a turn, to follow the reaper
+66930	10000	text	until the point of no return
+92950	2710	text	When your blindly death-raying blade
+95860	2130	text	sweeps the griefs and fears away
+98190	2190	text	I cross my heart and hope to die
+100580	2630	text	thy freedom will be mine
+103610	3430	text	Sinking down in the ocean of severe emotions
+107840	4810	text	Grab a bottle to drink up the pain-relieving potion
+113450	3900	text	But after all, that got boring too 
+118150	7710	text	So no matter what happens I couldn't give a damn or two
+130860	470	text	Whoa
+131340	600	text	Whoa 
+131950	10000	text	WHOA!
+153340	1170	text	The portal has been past 'til the
+154610	3130	text	point of no return
+158140	990	text	No more lines to cross
+159230	10000	text	no more bridges to burn
+212850	2610	text	Now when your blindly death-raying blade
+215860	2050	text	swept my griefs and tears away
+218110	2210	text	I'd never go back to cross that line
+220520	4560	text	I cross my heart and hope to die...die
+225880	4000	text	(I was only 21 when I died)

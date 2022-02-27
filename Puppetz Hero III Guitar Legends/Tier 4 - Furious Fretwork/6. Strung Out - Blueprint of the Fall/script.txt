@@ -1,0 +1,21 @@
+# [ti:Blueprint of the Fall]
+# [ar:Strung Out]
+# [al:Scripted by Italianstal1ion for Puppetz Hero 3]
+# [la:en]
+22470	4890	text	Imagine a place where freedoms just a word on the wall
+28960	4830	text	Surrounded by the wreekage of towers that could never fall
+34590	6340	text	The company will avenge
+42530	4960	text	Imagine the lies like bombs turn the shock and the awe
+49090	4860	text	For justice in time and a land for justice never was 
+54750	5870	text	One thief to rule them all along the Potomac and west towards the sea
+62220	5010	text	Through the ghettos past the monuments we all built to house the weak
+68830	5420	text	Its the blueprint to the fall of our place in history
+75850	5090	text	The end to what we all believed to be the hope to save this place
+83940	4950	text	And I walk among the flagstones through the graves
+90490	10000	text	An apocolypse is bloomin' in the sage
+129030	4960	text	Dead presidents lined coffin text in biblical unrest
+135590	3020	text	The blind pride home genocide
+139010	2850	text	And the secret wars we all missed
+142260	5240	text	It's the blueprint to the fall of the entire human race
+149100	6810	text	The end to what we all believed would be the hope to save this place
+158910	4000	text	And I walk among the flagstones through the graves

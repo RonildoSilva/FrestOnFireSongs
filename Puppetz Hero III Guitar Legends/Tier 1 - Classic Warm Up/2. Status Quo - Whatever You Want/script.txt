@@ -1,0 +1,55 @@
+# [ti:Whatever You Want]
+# [ar:Status Quo]
+# [al:Scripted by Italianstal1ion for Puppetz Hero 3]
+# [la:en]
+73940	1640	text	Whatever you want
+75680	1840	text	Whatever you like
+77720	970	text	Whatever you say
+78790	920	text	You pay your money
+79720	1770	text	You take your choice
+81590	1850	text	Whatever you need
+83540	1800	text	Whatever you use
+85540	1810	text	Whatever you win
+87550	1800	text	Whatever you lose
+89450	1850	text	You're showing off
+91400	1830	text	You're showing out
+93430	910	text	You look for trouble
+94440	2700	text	Turn around, give me a shout
+97340	1810	text	I take it all
+99250	1880	text	You squeeze me dry
+101230	1080	text	And now today
+102410	2800	text	You couldn't even say goodbye
+105610	2600	text	I could take you home
+108410	4260	text	On the midnight train again
+113470	5750	text	I could make an offer you can't refuse
+120820	1600	text	Whatever you want
+122520	1840	text	Whatever you like
+124460	910	text	Whatever you say
+125380	900	text	You pay your money
+126380	1880	text	You take your choice
+128360	1860	text	Whatever you need
+130320	1810	text	Whatever you use
+132330	1700	text	Whatever you win
+134130	11640	text	Whatever you lose
+153770	1760	text	You're showing off
+155630	1860	text	You're showing out
+157590	930	text	You look for trouble
+158620	2730	text	Turn around, give me a shout
+161550	1860	text	I take it all
+163510	1800	text	You squeeze me dry
+165510	880	text	And now today
+166400	3310	text	You couldn't even say goodbye
+170110	2340	text	I could take you home
+172650	4130	text	On the midnight train again
+177580	5820	text	I could make an offer you can't refuse
+185000	1630	text	Whatever you want
+186730	1870	text	Whatever you like
+188700	880	text	Whatever you say
+189590	970	text	You pay your money
+190570	1840	text	You take your choice
+192510	1820	text	Whatever you need
+194430	1830	text	Whatever you use
+196460	1710	text	Whatever you win
+198270	1860	text	Whatever you lose
+200230	5150	text	Whatever you want 
+206980	4000	text	Whatever you want 

@@ -1,0 +1,41 @@
+# [ti:They Will Return]
+# [ar:Kamalah]
+# [la:en]
+40180	1970	text	Rhythm of wings
+42350	2130	text	In the sky so high
+44680	1940	text	Music in my ears
+46820	2090	text	I can't wait to see
+49110	2050	text	I' m hiding in the grass 
+51360	2010	text	Death in my hands
+53570	2170	text	Surprise is my 
+55940	10000	text	Only defense
+79030	1920	text	My private war 
+81150	2170	text	Against wilderness
+83520	2070	text	Human mastermind versus 
+85790	1990	text	Animal instinct
+87980	1920	text	And when the flock settles 
+90100	2190	text	I pass my sentence
+92490	1880	text	But no one will die 
+94570	3120	text	After the report
+98090	1570	text	They rise 
+99760	4560	text	Into the air and fly away
+105120	3780	text	But they will return
+109700	3830	text	And I am all alone
+114330	3780	text	Yeah, they will return
+118910	10000	text	Then I will revenge
+174260	3530	text	But they will return
+178590	3900	text	And I am all alone
+183290	3700	text	Yeah, they will return
+187790	2980	text	Then I will revenge
+191170	1830	text	Still some day 
+193200	2270	text	I'm hiding again
+195670	1830	text	Waiting for the sound 
+197700	2310	text	Of stroking wings
+200210	1940	text	And they will come
+202350	2010	text	Spirit within
+204560	2040	text	And in same place 
+206800	3230	text	I miss them again
+210830	3580	text	They rise into the air
+215210	3640	text	And fly away
+219650	4480	text	Yeah, they rise into the air
+224930	4000	text	But...they will return! 

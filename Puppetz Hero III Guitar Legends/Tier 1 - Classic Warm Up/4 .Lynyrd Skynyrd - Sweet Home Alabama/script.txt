@@ -1,0 +1,44 @@
+# [ti:Sweet Home Alabama]
+# [ar:Lynyrd Skynyrd]
+# [la:en]
+22560	3940	text	Big wheels keep on turning
+27300	3900	text	Carry me home to see my kin
+32000	4140	text	Singing songs about the southland
+36940	2030	text	I miss Alabamy once again
+39170	7420	text	And I think its a sin, yes
+51590	4060	text	Well I heard Mister Young sing about her
+56450	4020	text	Well, I heard ole Neil put her down
+61270	4240	text	Well, I hope Neil Young will remember
+66310	4240	text	A southern man dont need him around anyhow
+71350	4000	text	Sweet home Alabama
+76150	4210	text	Where the skies are so blue
+81160	4120	text	Sweet home Alabama
+86080	9650	text	Lord, I'm coming home to you
+100730	4080	text	In Birmingham they love the governor
+105610	4050	text	Now we all did what we could do
+110460	4350	text	Now Watergate does not bother me
+115610	2430	text	Does your conscience bother you?
+118240	2070	text	Tell the truth
+120510	4120	text	Sweet home Alabama
+125430	4180	text	Where the skies are so blue
+130410	4100	text	Sweet home Alabama
+135310	2200	text	Lord, I'm coming home to you
+137710	5000	text	Here I come Alabama
+189030	4250	text	Now muscle shoals has got the swampers
+194080	4060	text	And they've been known to pick a song or two
+198940	4010	text	Lord they get me off so much
+203750	2050	text	They pick me up when I'm feeling blue
+206000	2450	text	Now how about you?
+208650	4130	text	Sweet home Alabama
+213580	4170	text	Where the skies are so blue
+218550	4020	text	Sweet home Alabama
+223370	4210	text	Lord, I'm coming home to you
+228380	2420	text	Sweet home Alabama
+231000	2120	text	Oh sweet home baby
+233320	2010	text	Where the skies are so blue
+235530	2490	text	And the governors true
+238220	2730	text	Sweet home Alabama
+241150	1800	text	Lordy
+243050	3170	text	Lord, I'm coming home to you
+246620	2750	text	Yea, yea 
+249770	4000	text	Montgomery's got the answer 

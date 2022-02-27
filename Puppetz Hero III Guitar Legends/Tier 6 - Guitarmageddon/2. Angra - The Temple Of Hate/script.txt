@@ -1,0 +1,29 @@
+# [ti:The Temole of Hate]
+# [ar:Angra]
+# [la:en]
+55850	4460	text	Nations battle on the field across the lands
+61110	1200	text	Ruthless
+62410	3130	text	Stealing territories from our hands
+65940	4760	text	Anger throwing down the victims to the ground
+71500	4360	text	Cold blood younger soldiers weeping with no sound
+76660	5680	text	Revolution striking down right now!
+87340	4030	text	Blind fools fighting for the power to command
+92170	4180	text	Flag poles threading down the freedom of our men
+97150	4690	text	Innocence dying by the fury of the sword
+102640	4340	text	Poor men falling before saying their last words
+107780	5000	text	Revelation code eleven
+113580	3660	text	Striking over us
+118040	4550	text	Sounds of revolution
+123390	4410	text	Freedom is proclaimed
+128600	6270	text	Bells announcing changes for the better
+137870	3920	text	In the temple of hate
+142590	5130	text	The Temple of Hate!
+148520	10000	text	Satan awaits!
+250500	4200	text	Revolution we have waited
+255500	4420	text	Burning down our souls
+260720	4460	text	Sounds of revolution
+265980	4460	text	Freedom is proclaimed
+271240	6380	text	Bells announcing changes for the better
+280620	4070	text	In the temple of hate
+285490	5030	text	Satan awaits!
+291320	4000	text	The Temple of Hate! 

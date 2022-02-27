@@ -1,0 +1,50 @@
+# [ti:Pinball Map]
+# [ar:In Flames]
+# [al:Scripted by Italianstal1ion for Puppetz Hero 3]
+# [la:en]
+19790	1810	text	As I aim for that bright white day
+21700	1860	text	Conflict serum is my aura
+23660	1850	text	It seems that life's so fragile
+25710	2140	text	I guess I'll fly some other time
+28050	1830	text	I lack from superhighway thoughts
+29980	1940	text	Won't live as long as the city lights
+32120	1910	text	Soaked by underwater times
+34230	2490	text	Electric splash on a midnight drive
+36920	3260	text	Wish I could rape the day,
+40980	3460	text	just something radical
+45240	3420	text	Lost the sense of sweet things
+49460	3560	text	Who's gonna take me widely?
+53420	3680	text	Guided by the pinball map
+57900	3390	text	The driver, still unknown to me
+62090	3370	text	Who was sent to glorify?
+66260	8700	text	Before we injected this common pride
+79960	1620	text	Sometimes I don't belong
+81680	2020	text	Release me from your world
+83900	1790	text	Pacified by the small things in life
+85790	2130	text	I wait for earthquakes to rearrange
+88120	1800	text	Never been able to use the force
+90120	1940	text	I only have it read to me
+92260	1940	text	Despite all the misguided faith
+94400	2240	text	(Maybe) I'll find a place in this mess
+96840	3280	text	Wish I could rape the day,
+100920	3360	text	just something radical
+105080	3480	text	Lost the sense of sweet things
+109360	3390	text	Who's gonna take me widely?
+113550	3460	text	Guided by the pinball map
+117810	3280	text	The driver, still unknown to me
+121890	3580	text	Who was sent to glorify?
+126270	10000	text	Before we injected this common pride
+151460	2160	text	Early morning moments
+153820	1880	text	A glimpse of joy
+155800	3390	text	But soon it's over and I return to dust
+159990	1890	text	As I try to be
+162080	1900	text	Everything and everyone
+164180	10000	text	I shrivel up and waste away
+185200	3320	text	Wish I could rape the day,
+189320	3640	text	just something radical
+193760	3250	text	Lost the sense of sweet things
+197810	3310	text	Who's gonna take me widely?
+201920	3450	text	Guided by the pinball map
+206170	3490	text	The driver, still unknown to me
+210460	3470	text	Who was sent to glorify?
+214730	4000	text	Before we injected this common pride

@@ -1,0 +1,53 @@
+# [ti:Victim of Changes]
+# [ar:Judas Priest]
+# [al:Scripted by Italianstal1ion for Puppetz Hero 3]
+# [la:en]
+44380	930	text	Whiskey woman dont you know
+45410	5220	text	That you are drivin me insane
+55630	1220	text	The liquor you give stems your
+56950	4820	text	Will to live and gets right to my brain
+63370	3530	text	Dont you know youre driving me insane
+67700	2770	text	Youre tryin to find your way through life
+70670	6470	text	Youre tryin to get some new direction
+80140	2340	text	Another woman got her man
+82680	5770	text	She wont find no new connection
+91450	2630	text	Takes another drink or two, 
+94480	10000	text	things look better when shes through
+124460	1790	text	Takes another look around, 
+126350	6890	text	youre not goin anywhere
+136240	2240	text	Youve realized youre gettin old 
+138680	6450	text	and no one seems to care
+148130	2730	text	Youre tryin to find your way again
+151060	6140	text	Youre tryin to find some new...
+160200	2630	text	Another womans got her man
+163230	5800	text	But she wont find a new...
+172030	2640	text	Takes another drink or two, 
+174870	9260	text	things look better when shes through
+189130	930	text	You bin 
+190070	1380	text	foolin 
+191550	1170	text	with some 
+192820	1650	text	hot guy
+194570	1180	text	I want 
+195850	1400	text	to know 
+197350	1270	text	why is 
+198720	1560	text	it why
+200380	1320	text	Get up 
+201800	1220	text	get out 
+203120	1140	text	you know 
+204360	1620	text	you really blew it
+206080	1350	text	I've had enough, 
+207530	1430	text	I've had enough, 
+209060	10000	text	good God pluck me
+309040	4520	text	Once she was wonderful
+315160	4930	text	Once she was fine
+321690	4870	text	Once she was beautiful
+328160	6180	text	Once she was mine...she was mine
+335940	4450	text	Now change has come over her body, 
+341990	4920	text	she doesnt see me anymore
+348510	4770	text	Now change has come over her body, 
+354880	5140	text	she doesnt see me anymore
+361620	4690	text	Changes, 
+367910	4890	text	changes, 
+374400	4910	text	changes, 
+380910	10940	text	changes
+399850	4000	text	Victim of changes
